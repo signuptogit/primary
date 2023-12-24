@@ -1,0 +1,2 @@
+# primary
+Git Bash Startup
